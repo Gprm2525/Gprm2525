@@ -1,5 +1,7 @@
 # Hi! I`m Giorgio🤝!
-<br>About me:<br>⌨️ Back-End Programmer<br>👨🏽‍🎓 Information Systems Development<br><br>
+<br>
+## About me:
+<br>⌨️ Back-End Programmer<br>👨🏽‍🎓 Information Systems Development<br><br>
 
 
 ## 🌐 Socials:
